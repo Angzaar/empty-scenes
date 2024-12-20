@@ -2,7 +2,7 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "Deploy Today!",
+    "title": "empty-scenes",
     "description": "Reserve today!",
     "navmapThumbnail": "images/scene-thumbnail.png",
     "favicon": "favicon_asset"
@@ -35,5 +35,6 @@
     "voiceChat": "enabled",
     "portableExperiences": "enabled"
   },
-  "iwb":3
+  "iwb": 3,
+  "name": "empty-scenes"
 }
